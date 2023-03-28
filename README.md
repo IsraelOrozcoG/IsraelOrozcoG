@@ -29,5 +29,7 @@ I am a Software Developer from Mexico :mexico:
 
 ### :fire: My Stats :
 
+![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelOrozcoG&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsraelOrozcoG&theme=transparent&hide_border=true&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelOrozcoG)](https://github.com/IsraelOrozcoG/github-readme-stats)
