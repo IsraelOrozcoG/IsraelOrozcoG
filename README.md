@@ -7,9 +7,9 @@ I am a Software Developer from Mexico :mexico:
 ### :man_technologist: About Me :
 ---
 
-- 🔭 I’m currently working on Algorithms,Web Development 
-- 🌱 I’m currently learning Game development
-- 🤔 I’m looking for help with Data Structures
+- 🔭 I’m currently working on Algorithms,Web Development, and data analyst
+- 🌱 I’m currently learning Game developmentnd
+- 🤔 I’m looking for help with Data Structures, advices for data cleaning using python or R
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
