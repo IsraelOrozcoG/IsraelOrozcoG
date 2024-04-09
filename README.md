@@ -8,8 +8,8 @@ I am a Software Developer from Mexico :mexico:
 ---
 
 - 🔭 I’m currently working on Algorithms,Web Development, and data analyst
-- 🌱 I’m currently learning Game developmentnd
-- 🤔 I’m looking for help with Data Structures, advices for data cleaning using python or R
+- 🌱 I’m currently learning Game development and data analitycs.
+- 🤔 I’m looking for help with Data Structures, advices for data analitycs areas like cleaning and selection using python or R.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
